@@ -21,3 +21,4 @@ You may locate the lab environments on the A Cloud Guru platform [here](https://
 The exam was updated **June 15,2020**. Here is a side by side comparison between the old exam and the new:
 [Previous Exam Comparison](https://imgrepopublic.blob.core.windows.net/img/AZ400_Comparison_Guide.pdf)
 
+Just to check how to solve conflict between origin repository and forked - chnages are made to both repository!
